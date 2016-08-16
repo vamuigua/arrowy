@@ -1,2 +1,2 @@
 # arrowy
-Basics Python startup
+Basic Python startup
